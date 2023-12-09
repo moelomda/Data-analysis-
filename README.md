@@ -1,3 +1,6 @@
+![image](https://github.com/moelomda/moelomda/assets/88937815/7a51ea32-2a62-4683-b0ff-704f3d4cf566)
+
+
 - 👋 Hi, I’m @moelomda
 - 👀 I’m interested in Embedded Systems 
 - 📫 How to reach me ...
