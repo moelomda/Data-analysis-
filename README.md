@@ -1,4 +1,5 @@
-![image](https://github.com/moelomda/moelomda/assets/88937815/7a51ea32-2a62-4683-b0ff-704f3d4cf566)
+![image](https://github.com/moelomda/moelomda/assets/88937815/dc41034c-27af-4b7a-8f4f-c110c33dc442)
+
 
 
 - 👋 Hi, I’m @moelomda
