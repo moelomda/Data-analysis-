@@ -6,6 +6,8 @@
 - 👀 I’m interested in Embedded Systems 
 - 📫 How to reach me ...
 abdoalomda20@gmail.com
+![image](https://github.com/moelomda/moelomda/assets/88937815/f64d7b90-59ea-4963-b800-41dc78137bd6)
+
 
 <!---
 moelomda/moelomda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
