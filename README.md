@@ -1,64 +1,28 @@
-/* Add a touch of style to your README */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3omda's Repository</title>
+  <style>
+    /* Your CSS code goes here */
+    body {
+      font-family: 'Arial', sans-serif;
+      /* ... other styles ... */
+    }
+    /* ... other styles ... */
+  </style>
+</head>
+<body>
 
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  background-color: #f5f5f5;
-  color: #333;
-}
+# Welcome to 3omda's Repository
 
-.container {
-  max-width: 800px;
-  margin: 40px auto;
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+This is a place where creativity meets innovation. Feel free to explore and contribute!
 
-h1, h2, h3 {
-  color: #333;
-}
+<!-- The rest of your README content goes here -->
 
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-code {
-  font-family: 'Courier New', monospace;
-  background-color: #f8f9fa;
-  padding: 2px 4px;
-  border: 1px solid #dee2e6;
-  border-radius: 4px;
-}
-
-button {
-  display: inline-block;
-  padding: 8px 16px;
-  font-size: 16px;
-  font-weight: 600;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  border-radius: 4px;
-  background-color: #007bff;
-  color: #fff;
-  border: 1px solid #007bff;
-}
-
-button:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
-}
-
-
-
+</body>
+</html>
 
 ![HELLO](https://github.com/moelomda/moelomda/assets/88937815/dc41034c-27af-4b7a-8f4f-c110c33dc442)
 - 👋 Hi, I’m @moelomda
