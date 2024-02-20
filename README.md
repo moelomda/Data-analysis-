@@ -12,7 +12,4 @@
 
 <img align="right" width="500" src="https://komarev.com/ghpvc/?username=moelomda"> 
 
-<div style="background-color: #f8f8f8; padding: 20px; border-radius: 5px;">
-  <h2 style="color: #30475e; font-family: 'Arial', sans-serif;">Featured Projects</h2>
-  </div>
 
