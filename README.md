@@ -8,7 +8,7 @@
 * Email: moelomda2019@gmail.com
 
 
-<img align="right" width="1000" src="https://github-readme-stats.vercel.app/api?username=moelomda&show_icons=true&theme=dark">
+<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=moelomda&show_icons=true&theme=dark">
 
-<img align="right" width="1000" src="https://komarev.com/ghpvc/?username=moelomda"> 
+<img align="right" width="500" src="https://komarev.com/ghpvc/?username=moelomda"> 
 
