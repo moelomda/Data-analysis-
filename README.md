@@ -12,3 +12,12 @@
 
 <img align="right" width="500" src="https://komarev.com/ghpvc/?username=moelomda"> 
 
+<a href="https://github.com/" style="color: #333; text-decoration: none;">My GitHub</a>
+<a href="https://github.com/" style="color: #333; text-decoration: none;">My GitHub</a>
+
+<script> 
+  document.querySelectorAll('a').forEach(link => {
+    link.addEventListener('mouseover', () => link.style.color = '#007bff')
+    link.addEventListener('mouseout', () => link.style.color = '#333')
+  })
+</script>
